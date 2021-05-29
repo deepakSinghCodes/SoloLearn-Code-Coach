@@ -1,5 +1,9 @@
-# -*- coding: utf-8 -*-
+# -*- coding: utf-8 -*-"""
 """
+################################ Pig Latin ################################
+Copyright: Deepak Singh.
+Date: May, 2021
+
 You have two friends who are speaking Pig Latin to each other! Pig Latin is 
 the same words in the same order except that you take the first letter of 
 each word and put it on the end, then you add 'ay' to the end of that. 
