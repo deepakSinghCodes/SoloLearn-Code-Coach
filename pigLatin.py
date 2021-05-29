@@ -33,7 +33,7 @@ def main(origString):
 # Output:
 # The function returns a string in pig latin   
 # Methodology:
-# A single word intput is treated differently, but for others based on the 
+# A single word input is treated differently, but for others based on the 
 # space we will store the first letter and make changes to the current word
 #
     try:
