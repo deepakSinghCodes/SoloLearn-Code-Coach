@@ -75,7 +75,8 @@ int main(int argc, char * argv[]){
             }
             outputString = outputString + firstLetter + "ay";
         }
-			cout << outputString;
+	cout << outputString;
+	return 0;
     }
     catch(std::exception){
         cout << "Input is not string." << endl;
