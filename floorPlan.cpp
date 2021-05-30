@@ -91,6 +91,7 @@ int main(int argc, char* argv[]){
             }
         }
         cout << "quiet";
+	return 0;    
     }    
     catch(ALARM msg){
         cout << msg.what();
